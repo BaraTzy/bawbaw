@@ -3,7 +3,7 @@ onload = () => {
   const c = setTimeout(() => {
     document.body.classList.remove("not-loaded");
 
-    const titles = ('YOU ARE THE LOVE OF MY LIFE').split('')
+    const titles = ('I LOVE U PUSPITAKU').split('')
     const titleElement = document.getElementById('title');
     let index = 0;
 
